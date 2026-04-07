@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
-const API_URL = 'https://food-ordering-backend-gry4.onrender.com';
+const API_URL = 'https://food-ordering-backend-gry4.onrender.com/api/fooditems';
 
 function App() {
   // Stores all food items from database
